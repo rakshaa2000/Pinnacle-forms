@@ -1,0 +1,192 @@
+body{
+	background: url(wp5.jpg);
+	background-size: cover;
+	background-position:center; 
+	margin:0;
+	padding: 0;
+}
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 50px auto; 
+}
+.login-left{
+	background:rgba(211,211,211,0.5);
+	padding: 30px;
+	border-radius: 20px;
+}
+.login-right{
+	background:rgba(256,256,256,0.5);
+	padding: 30px;
+	border-radius: 20px;
+}
+.form-control{
+	background-color: transparent !important;
+}
+a{
+	color: #fff !important; 
+	margin-top:-150px;
+}
+h1{
+	color: #fff;
+	margin-top: 150px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
+#h1tit{
+	color: #fff;
+	margin-top: 100px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
+h4{
+	color: #fff;
+	margin-top: 50px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
+h6{
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+}
+.sub{
+	background-color: #ff6661 !important;
+	color: #fff !important;
+	border-radius: 100px !important;
+	border-color: #ff6661 !important;
+	cursor: pointer !important;
+}
+.sub1{
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	height: 45px;
+}
+#title{
+	background: rgba(256,256,256,0.75);
+	padding: 0;
+	border-radius: 40px;
+	width: 500px;
+	max-width: 1000px;
+	color: #000;
+	text-align: center;
+	height: 50px;
+}
+#desc{
+	background: rgba(256,256,256,0.75);
+	padding: 0;
+	border-radius: 40px;
+	width: 500px;
+	max-width: 1000px;
+	color: #000;
+	text-align: center;
+	height: 100px;
+}
+#field{
+	background-color: #ff6661;
+	color: #fff;
+	border-radius: 10px;
+	border-color: #ff6661;
+	height: 30px;
+	/*padding: 0 10px;*/
+	width: 150px !important;
+	justify-content: center;
+	/*align-items: center;*/
+	text-align: center;
+}
+#myList{
+	background-color: #ffc0cb;
+	color: #000;
+	border-radius: 100px;
+	border-color: #ff6661;
+	height: 30px;
+	/*padding: 10px;*/
+	width: wrap;
+	display: inline-flex;
+	text-align: center;	
+}
+#add{
+	color:#fff;
+	border-radius: 50%;
+	border: 10px;
+	padding: 20px;
+	background: none;
+	/*float: right;*/
+	width:50px;
+	height:50px;
+	/*display: flex;*/
+	justify-content: center;
+	cursor: pointer !important;
+	align-items: center;
+}
+.field{
+	border-radius: 10px;
+}
+.save-btn{
+/* 	background-color: #ff6661 !important; */
+	color: #f39c12 !important;
+	border-radius: 100px !important; 
+	border-color: #ff6661 !important;
+	cursor: pointer !important;
+	position: absolute !important;
+	left: 100px !important;
+	top: 100px !important;
+	margin: 100px !important;
+}
+#myTable{
+	left: 50%;
+}
+#myTable1{
+	color: #fff;
+	text-align: center;
+	border: 5px solid #000;
+}
+td{
+	padding: 10px;
+	border-width: 5px;
+}
+th{
+	padding: 20px;
+	border-width: 5px;
+}
+#formdis{
+	color:#fff !important;
+	position: absolute;
+	top: 25%;
+	left: 40%;
+	align-items: center;
+	text-align: center;
+}
+#lol1{
+	position: absolute;
+	left: 25%;
+	top: 15%;
+}
+.sub2{
+	position: absolute;
+	left: 50% !important;
+	top: 50% !important;
+}
+#a1{
+	background-color: #f1c40f;
+	position: absolute;
+	left: 5% !important;
+	top: 90% !important;
+	padding: 10px;
+	border: 20px;
+	border-radius: 10px;
+	color: #000 !important;
+	vertical-align: middle !important;
+	text-align: center;
+}
+#a2{
+	position: absolute;
+	left: 50% !important;
+	top: 25% !important;
+}
+#id{
+	position: absolute;
+	left: 50% !important;
+	color:#fff !important;
+}
